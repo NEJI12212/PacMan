@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp" />
+    <ClCompile Include="PacTileMap.cpp">
+      <Filter>Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>characters</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghost.cpp">
+      <Filter>characters</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>characters</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Stage">
+      <UniqueIdentifier>{e0cc2d2a-e858-48d3-bc1b-ba9f6aa9d0a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="characters">
+      <UniqueIdentifier>{4b270600-d320-4291-9461-e7b523843f81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PacTileMap.h">
+      <Filter>Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="character.h">
+      <Filter>characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>characters</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghost.h">
+      <Filter>characters</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>characters</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

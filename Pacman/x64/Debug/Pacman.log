@@ -1,0 +1,10 @@
+﻿  PacTileMap.cpp
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(52,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(58,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(71,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(73,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(97,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(111,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\X\Pacman\PacTileMap.cpp(113,27): warning C4018: '<': signed/unsigned mismatch
+  Pacman.vcxproj -> C:\Users\Chris\Desktop\X\x64\Debug\Pacman.exe
