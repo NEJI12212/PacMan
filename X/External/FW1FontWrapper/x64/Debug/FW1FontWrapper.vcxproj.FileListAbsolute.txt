@@ -1,0 +1,4 @@
+C:\Users\Chris\Desktop\X\x64\Debug\FW1FontWrapper.pdb
+C:\Users\Chris\Desktop\X\X\External\FW1FontWrapper\x64\Debug\FW1FontWrapper.pdb
+C:\Users\Chris\Documents\GitHub\PacMan\x64\Debug\FW1FontWrapper.pdb
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\FW1FontWrapper\x64\Debug\FW1FontWrapper.pdb

@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Inc">
+      <UniqueIdentifier>{b6c5a362-661e-4455-83f7-0179ed1c5dd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{3ab54f34-b48c-45c9-95c7-cf68194bfd81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\GraphicsSystem.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\InputSystem.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Precompiled.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XEngine.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Camera.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SimpleDraw.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XMath.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XCore.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\ConstantBuffer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\PixelShader.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Vertex.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\VertexShader.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\VertexUtil.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Timer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Font.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Texture.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\TextureManager.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SpriteRenderer.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Gui.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Forward.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Config.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\AudioSystem.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\SoundEffectManager.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XColors.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+    <ClInclude Include="Inc\XTypes.h">
+      <Filter>Inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\Camera.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GraphicsSystem.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\InputSystem.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Precompiled.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SimpleDraw.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\XEngine.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ConstantBuffer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\PixelShader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Vertex.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\VertexShader.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\XMath.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\VertexUtil.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Timer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Font.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Texture.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\TextureManager.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SpriteRenderer.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Gui.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Config.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\AudioSystem.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SoundEffectManager.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Src\VertexElement.tup">
+      <Filter>Src</Filter>
+    </None>
+  </ItemGroup>
+</Project>

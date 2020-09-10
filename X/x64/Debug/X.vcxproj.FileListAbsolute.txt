@@ -1,0 +1,4 @@
+C:\Users\Chris\Desktop\X\x64\Debug\X.pdb
+C:\Users\Chris\Desktop\X\X\x64\Debug\X.pdb
+C:\Users\Chris\Documents\GitHub\PacMan\x64\Debug\X.pdb
+C:\Users\Chris\Documents\GitHub\PacMan\X\x64\Debug\X.pdb
