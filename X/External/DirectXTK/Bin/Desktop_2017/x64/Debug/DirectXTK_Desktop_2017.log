@@ -1,0 +1,106 @@
+﻿  pch.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4169,17): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4199,18): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4234,18): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4235,19): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4263,18): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\d3d11.h(4264,19): warning C5219: implicit conversion from 'UINT' to 'FLOAT', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(65,1): warning C5204: 'Microsoft::WRL::CloakedIid<IMarshal>': class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(811): message : see reference to class template instantiation 'Microsoft::WRL::CloakedIid<IMarshal>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1302): message : see reference to class template instantiation 'Microsoft::WRL::Details::AdjustImplements<Microsoft::WRL::RuntimeClassFlags<3>,true,I0>' being compiled
+          with
+          [
+              I0=Microsoft::WRL::CloakedIid<IMarshal>
+          ]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1339): message : see reference to class template instantiation 'Microsoft::WRL::Implements<Microsoft::WRL::RuntimeClassFlags<3>,Microsoft::WRL::CloakedIid<IMarshal>>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1648,1): warning C5220: 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IWeakReference>::refcount_': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1647): message : see declaration of 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IWeakReference>::refcount_'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(2168): message : see reference to class template instantiation 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IWeakReference>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(2193): message : see reference to class template instantiation 'Microsoft::WRL::RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IWeakReference>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1648,1): warning C5220: 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IUnknown>::refcount_': a non-static data member with a volatile qualified type no longer implies
+           that compiler generated copy/move constructors and copy/move assignment operators are not trivial
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(1647): message : see declaration of 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IUnknown>::refcount_'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\implements.h(2168): message : see reference to class template instantiation 'Microsoft::WRL::Details::RuntimeClassImpl<Microsoft::WRL::RuntimeClassFlags<2>,true,false,true,IUnknown>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\winrt\wrl\event.h(442): message : see reference to class template instantiation 'Microsoft::WRL::RuntimeClass<Microsoft::WRL::RuntimeClassFlags<2>,IUnknown>' being compiled
+  AlphaTestEffect.cpp
+  BasicEffect.cpp
+  BasicPostProcess.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  DebugEffect.cpp
+  DGSLEffect.cpp
+  DGSLEffectFactory.cpp
+  DualPostProcess.cpp
+  DualTextureEffect.cpp
+  BinaryReader.cpp
+  EffectCommon.cpp
+  EffectFactory.cpp
+  EnvironmentMapEffect.cpp
+  GamePad.cpp
+  GeometricPrimitive.cpp
+  Geometry.cpp
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(163,34): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(165,27): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(165,39): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(173,34): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(175,31): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(175,44): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(384,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(385,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(549,23): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(549,36): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(560,24): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(560,37): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(636,30): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(685,30): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(730,30): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(732,28): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(732,41): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(741,38): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(743,32): warning C5219: implicit conversion from 'size_t' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(743,45): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Bezier.h(92,34): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Geometry.cpp(1153): message : see reference to function template instantiation 'void Bezier::CreatePatchVertices<`anonymous-namespace'::TessellatePatch::<lambda_cf21469c32ba65993f8862b9d5412881>>(DirectX::XMVECTOR [],size_t,bool,TOutputFunc)' being compiled
+          with
+          [
+              TOutputFunc=`anonymous-namespace'::TessellatePatch::<lambda_cf21469c32ba65993f8862b9d5412881>
+          ]
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Bezier.h(96,38): warning C5219: implicit conversion from 'size_t' to 'float', possible loss of data
+  GraphicsMemory.cpp
+  Keyboard.cpp
+  Model.cpp
+  Generating Code...
+  Compiling...
+  ModelLoadCMO.cpp
+  ModelLoadSDKMESH.cpp
+  ModelLoadVBO.cpp
+  Mouse.cpp
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Mouse.cpp(384,94): warning C5219: implicit conversion from 'const int' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\Mouse.cpp(385,94): warning C5219: implicit conversion from 'const int' to 'float', possible loss of data
+  NormalMapEffect.cpp
+  PBREffect.cpp
+  ScreenGrab.cpp
+  SimpleMath.cpp
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Inc\SimpleMath.inl(29,37): warning C5219: implicit conversion from 'const long' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Inc\SimpleMath.inl(29,68): warning C5219: implicit conversion from 'const long' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SimpleMath.cpp(108,33): warning C5219: implicit conversion from 'int' to 'float', possible loss of data
+  SkinnedEffect.cpp
+  SpriteBatch.cpp
+  PrimitiveBatch.cpp
+  SpriteFont.cpp
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(383,26): warning C5219: implicit conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(386,26): warning C5219: implicit conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(389,19): warning C5219: implicit conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(392,19): warning C5219: implicit conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(209,54): warning C5219: implicit conversion from 'LONG' to 'const float', possible loss of data
+C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Src\SpriteFont.cpp(344): message : see reference to function template instantiation 'void DirectX::SpriteFont::Impl::ForEachGlyph<DirectX::SpriteFont::DrawString::<lambda_cb46da6b8806a566d7994e34962af64c>>(const wchar_t *,TAction) const' being compiled
+          with
+          [
+              TAction=DirectX::SpriteFont::DrawString::<lambda_cb46da6b8806a566d7994e34962af64c>
+          ]
+  ToneMapPostProcess.cpp
+  VertexTypes.cpp
+  WICTextureLoader.cpp
+  Generating Code...
+  DirectXTK_Desktop_2017.vcxproj -> C:\Users\Chris\Documents\GitHub\PacMan\X\External\DirectXTK\Bin\Desktop_2017\x64\Debug\DirectXTK.lib

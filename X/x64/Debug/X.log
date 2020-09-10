@@ -1,0 +1,25 @@
+﻿  Precompiled.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  The contents of <variant> are available only with C++17 or later.
+  AudioSystem.cpp
+  Camera.cpp
+  Config.cpp
+  ConstantBuffer.cpp
+  Font.cpp
+  GraphicsSystem.cpp
+  Gui.cpp
+  InputSystem.cpp
+  PixelShader.cpp
+  SimpleDraw.cpp
+  SoundEffectManager.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Timer.cpp
+  Vertex.cpp
+  VertexShader.cpp
+  VertexUtil.cpp
+  XEngine.cpp
+  XMath.cpp
+  Generating Code...
+  X.vcxproj -> C:\Users\Chris\Documents\GitHub\PacMan\x64\Debug\X.lib

@@ -42,7 +42,6 @@ void EnemyManager::Load()
     CreateGhost({ 38.0f, 38.0f }, Ghost::GHOST_COLOUR::BLUE);
     CreateGhost({ 38.0f, 60.0f }, Ghost::GHOST_COLOUR::PINK);
     CreateGhost({ 60.0f, 342.0f }, Ghost::GHOST_COLOUR::PURPLE);
-    CreateGhost({ 138.0f, 342.0f }, Ghost::GHOST_COLOUR::ORANGE);
     CreateGhost({ 138.0f, 242.0f }, Ghost::GHOST_COLOUR::ORANGE);
     CreateGhost({ 208.0f, 142.0f }, Ghost::GHOST_COLOUR::ORANGE);
 }

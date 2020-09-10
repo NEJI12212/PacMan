@@ -1,0 +1,8 @@
+// Name, Bit, Size
+Element(Position,	0,		12)
+Element(Normal,		1,		12)
+Element(Tangent,	2,		12)
+Element(Texcoord,	3,		8)
+Element(Color,		4,		16)
+Element(BIndices,	5,		16)
+Element(BWeights,	6,		16)
